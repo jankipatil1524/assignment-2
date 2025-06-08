@@ -1,0 +1,22 @@
+Assignment :2
+
+Module 5:Data Collection, Cleaning, Visualization, andAnalysis
+
+
+Theoretical Assignments:
+
+1. Write an essay: Importance of Data Cleaning in Data Science
+
+-Data cleaning, also known as data scrubbing, is an essential process in data science that transforms raw, often messy, data into a format suitable for analysis and modeling
+
+Inconsistencies: Ensuring data is formatted consistently (e.g., dates, currency) and using standardized terminology. 
+
+Errors: Detecting and correcting typos, incorrect values, or data entry mistakes.
+ 
+Missing values: Handling situations where data is incomplete or missing, either by removing the incomplete data points, imputing them, or making assumptions.
+ 
+Duplicates: Identifying and removing duplicate entries to prevent skewed results. 
+
+Outliers: Analyzing and addressing extreme values that may be errors or legitimate data points that need to be treated differently. 
+
+2.Presentation: Data Visualization Techniques & Best Practices
